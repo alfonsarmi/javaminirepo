@@ -4,10 +4,10 @@ public class Test {
 	public void TestMethod()
 	{
 		
-		TestMethod2();
+		int b = TestMethod2(1, "test");
 	}
 	
-	private void TestMethod2()
+	private int TestMethod2(int a, String b)
 	{
 		
 		 
