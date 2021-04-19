@@ -19,6 +19,16 @@ class Tipo
 		
 		return new Tipo();
 	}
+	
+	Tipo()
+	{
+		
+	}
+	
+	Tipo(int test)
+	{
+		
+	}
 }
 
 public class Test {
