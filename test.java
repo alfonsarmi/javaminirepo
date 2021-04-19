@@ -22,12 +22,12 @@ class Tipo
 	
 	Tipo()
 	{
-		
+		int v = TestMethod4(1, "");		
 	}
 	
 	Tipo(int test)
 	{
-		
+		int v = TestMethod4(1, "");		
 	}
 }
 
